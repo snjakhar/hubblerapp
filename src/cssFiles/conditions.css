@@ -1,0 +1,21 @@
+#select-condtion{
+    padding: 5px;
+    margin-top:20px;
+}
+.conditions-list{
+    padding: 5px 8px;
+    margin: 6px 10px 0px 0px ;
+    width: 15%;
+}
+.add-list-box{
+    width: 35%;
+    padding: 5px 8px;
+}
+.add-list-box::placeholder{
+    color: #33ffff;
+}
+.addCondition-button{
+  padding: 6px;
+  width: 25%;
+  margin-top: 15px;
+}
